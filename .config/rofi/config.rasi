@@ -1,0 +1,10 @@
+@theme "/home/bl1nd/.local/share/rofi/themes/rounded-nord-dark.rasi"
+
+configuration {
+    show-icons: true;
+    drun-show-icons: true;
+    drun-icon-theme: "Papirus";
+ 
+}
+
+
